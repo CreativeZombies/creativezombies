@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
 
 
+
 /*************************
 *******Typography******
 **************************/
@@ -365,6 +366,8 @@ input.search-form:hover {
 
 #main-slider {
   position: relative;
+  /*min-height:100%;*/
+  
 }
 
 .no-margin {
@@ -409,7 +412,7 @@ input.search-form:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 730px;
+  min-height: 735px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
@@ -2524,8 +2527,15 @@ shortcodes page css
   margin-left: 15px;
 }
 
+/********************
 
+NEW
+*********************/
 
-
-
+/*
+html,body{height:100%;}
+.carousel,.item,.active,.slide{min-height:100%;}
+.carousel-inner{height:100%;}
+.fill{width:100%;height:100%;background-position:center;background-size:cover;}
+*/
 
