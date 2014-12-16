@@ -47,3 +47,12 @@ body{min-height:100%;}
     height: auto;
     margin: 5px auto 0;
 }
+
+/*service*/
+
+.img-service{
+    width:81px;
+    height:81px;
+}
+
+
