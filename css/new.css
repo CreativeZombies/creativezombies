@@ -6,4 +6,20 @@ body{min-height:100%;}
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    text-align: center;
+    
+}
+
+.centering, .col-sm-12{
+    height:100vh;
+ 
+}
+
+/*Vertically align */
+.element{
+  position: relative; /*For Top to work*/
+  top: 50%;/*Leave 50% from top*/
+  -webkit-transform: translateY(-50%);/*Same as above just HTML5 Syntax*/
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }

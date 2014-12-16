@@ -1,10 +1,18 @@
 <?php require_once 'base.php' ?>
 
 <?php startblock('content')?>
-
-    
 	 <section id="main-slider" class="no-margin ">
-
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="element">
+                        <h1 class="animation animated-item-1">Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
+                        <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
+                        <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section><!--/#main-slider-->
 
     <section id="feature" >
