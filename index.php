@@ -6,9 +6,13 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="element">
-                        <h1 class="animation animated-item-1">Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
+                        <h1 class="animation animated-item-1">If I had a cell phone, or any fingers, I would ask you for your number.</h1>
                         <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
-                        <a class="btn-slide animation animated-item-3" href="#">Read More</a>
+                       <div class="round-button">
+                            <a href="#">
+                                <img src="images/button_arrow.png" alt="Home" />
+                            </a>
+                      </div> 
                     </div>
                 </div>
             </div>
