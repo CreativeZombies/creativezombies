@@ -188,7 +188,19 @@
     </section><!--/#recent-works-->
 
     <section id="services" class="service-item">
-	   
+        <div class=container>
+            <div class="row testimonial-align">
+	            <h4>We Enjoy working with creativzombies because they are very hard working persons. I recommed them to others also who want software solutions</h4>
+	        </div>
+	        <div class="row">
+	            <div class="col-md-6 col-xs-6">
+	                <div class="arrow-left"> </div>
+	            </div>
+	            <div class="col-md-6 col-xs-6">
+	                <div class="arrow-right"> </div>
+	             </div> 
+	        </div>
+        </div>
     </section><!--/#services-->
 
     <section id="middle">
