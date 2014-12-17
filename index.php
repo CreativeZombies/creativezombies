@@ -8,11 +8,12 @@
                     <div class="element">
                         <h1 class="animation animated-item-1">If I had a cell phone, or any fingers, I would ask you for your number.</h1>
                         <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
-                       <div class="round-button">
+                       <!-- <div class="round-button">
                             <a href="#">
                                 <img src="images/button_arrow.png" alt="Home" />
                             </a>
-                      </div> 
+                      </div> -->
+                      <button class="btn btn-lg btn-danger" > What We Do </buton>
                     </div>
                 </div>
             </div>
@@ -25,6 +26,7 @@
                 <h2>Our Service</h2>
                 <p class="lead">We are a multi-channel creative and digital agency that delivers total brand solutions. Since 2009 we have been merging technology, design, strategy and brand experiences to deliver the unimagined.</p>
             </div>
+            
 
             <div class="row">
 
@@ -107,18 +109,24 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Recent Works</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <p class="lead">We help build brands from idea to launch. Here is some of our work.</p>
+                <button class="btn btn-default active" > Random </buton>
+                <button class="btn btn-default" > Web Development </buton>
+                <button class="btn btn-default"> Android Application </buton>
+                <button class="btn btn-default"> Desktop Application </buton>
+                <button class="btn btn-default"> Game Application </buton>
+                <button class="btn btn-default"> Graphic Designing </buton>
             </div>
-
+    
             <div class="row">
-                <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/recent/ancee.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a> </h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">ANCEE CHANTELLE</a> </h3>
+                                <p>SINGAPORE BASED BOUTIQUE</p>
+                                <a class="preview" href="http://www.an-cee.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
                     </div>
@@ -126,25 +134,25 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/recent/cabs.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">HAMILTON'S STAR CABS</a></h3>
+                                <p>WELCOME TO STAR CAB, HAMILTON'S MOST TRUSTED AND RELIABLE TAXI SERVICES</p>
+                                <a class="preview" href="http://www.hamiltonstarcabs.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
                     </div>
                 </div> 
 
-                <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/recent/guna.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">GUNAS CATERING</a></h3>
+                                <p>CATERING HOMELY FOOD AND SERVING IT TIMELY</p>
+                                <a class="preview" href="http://www.gunascatering.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
                     </div>
@@ -152,68 +160,29 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/recent/royal.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Royal Taj</a></h3>
+                                <p>WE PROVIDE OUR CATERING SERVICES SO THAT YOUR MOMENTS NEVER HAPPENS WITHOUT DELICIOUS FOOD</p>
+                                <a class="preview" href="http://theroyaltaj.creativezombies.com/index.php" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
                     </div>
                 </div>   
                 
-                <div class="col-xs-12 col-sm-4 col-md-3">
+                <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
+                        <img class="img-responsive" src="images/portfolio/recent/tedx.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">TEDxJCUS</a></h3>
+                                <p>TEDxJCUS IS A CONFERENCE ORGANISED BY A DIVERSE GROUP OF PEOPLE FROM JAMES COOK UNIVERSITY SNGAPORE(JCUS)</p>
+                                <a class="preview" href="http://www.tedxjcus.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
                     </div>
-                </div>   
-
-                <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
-                        <div class="overlay">
-                            <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                            </div> 
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
-                        <div class="overlay">
-                            <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                            </div> 
-                        </div>
-                    </div>
-                </div>   
-
-                <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
-                        <div class="overlay">
-                            <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
-                            </div> 
-                        </div>
-                    </div>
-                </div>   
+                </div>      
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#recent-works-->
