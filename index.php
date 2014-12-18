@@ -190,7 +190,7 @@
     <section id="services" class="service-item">
         <div class=container>
             <div class="row testimonial-align">
-	            <h4>We Enjoy working with creativzombies because they are very hard working persons. I recommed them to others also who want software solutions</h4>
+	            <h4>I am so impressed. Thanks to you and the team. The response from my colleague via Skype sums it up: "OMG ! The design is just AMAZING!!!"</h4>
 	        </div>
 	        <div class="row">
 	            <div class="col-md-6 col-xs-6">
