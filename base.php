@@ -17,6 +17,7 @@
     <link href="css/main.css" rel="stylesheet">
     <link href="css/new.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    
     <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
@@ -26,6 +27,8 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+
+
 </head><!--/head-->
 
 <body class="homepage">
