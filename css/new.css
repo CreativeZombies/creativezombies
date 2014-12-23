@@ -246,6 +246,10 @@ body{min-height:100%;}
     color: #FFF;
      
 }
+/*header*/
 
-
+nav{
+    opacity:0.75;
+     
+}
 
