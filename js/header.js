@@ -11,8 +11,8 @@ $( window ).scroll(function() {
     } else{
         
         $(".navbar-nav").css("margin-top","12px");
-        $(".navbar-nav>li").css("padding-bottom", "50px");
-        $(".navbar-inverse .navbar-brand ").css("line-height","30px");
+        $(".navbar-nav>li").css("padding-bottom", "28px");
+        $(".navbar-inverse .navbar-brand ").css("line-height","50px");
 
     }
     
