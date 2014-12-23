@@ -89,6 +89,7 @@
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/jquery.isotope.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/header.js"></script>
 <!--    <script src="js/wow.min.js"></script> -->
 </body>
 </html>
