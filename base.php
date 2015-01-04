@@ -49,12 +49,12 @@
 				
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="about_us.php">About Us</a></li>
-                        <li><a href="services.php">Services</a></li>
-                        <li><a href="portfolio.php">Portfolio</a></li>
-						<li><a href="our_clients.php">Our Clients</a></li>	
-                        <li><a href="contact_us.php">Contact</a></li>                        
+                        <li class="active"><a href="#main-slider">Home</a></li>
+                        <li><a href="#feature">Services</a></li>
+                        <li><a href="#recent-works">Portfolio</a></li>
+                        <li><a href="#team">About Us</a></li>
+						<li><a href="#partner">Our Clients</a></li>	
+                        <li><a href="#middle">Contact</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

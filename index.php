@@ -13,7 +13,7 @@
                                 <img src="images/button_arrow.png" alt="Home" />
                             </a>
                       </div> -->
-                      <button class="btn btn-lg btn-danger" > What We Do </buton>
+                      <button class="btn btn-lg btn-danger"> What We Do </buton>
                     </div>
                 </div>
             </div>
@@ -220,7 +220,7 @@
                         <li><a href="https://www.facebook.com/kailash.nath.583"  target="_blank" class="fa-facebook"></a></li>
                         <li><a href="https://plus.google.com/100356881205965896386/about"  target="_blank" class="fa-google-plus"></a></li>
                         <li><a href="#"  target="_blank" class="fa-twitter"></a></li>
-                        <li><a href="#"  target="_blank" class="fa fa-git"></a></li>
+                        <li><a href="#"  target="_blank" class="fa-git"></a></li>
                         
                     </ul>
                 </div>
@@ -237,7 +237,7 @@
                         <li><a href="https://www.facebook.com/pritam.soni13"   target="_blank" class="fa-facebook"></a></li>
                         <li><a href="https://plus.google.com/118220600743205979158/about"   target="_blank" class="fa-google-plus"></a></li>
                         <li><a href="https://twitter.com/Soni13Pritam"  target="_blank" class="fa-twitter"></a></li>
-                        <li><a href="https://github.com/pritamsoni"   target="_blank" class="fa fa-git"></a></li>
+                        <li><a href="https://github.com/pritamsoni"   target="_blank" class="fa-git"></a></li>
                     </ul>
                 </div>
                 <h3 class="wow">Pritam Rajendra <br>Soni</h3>
@@ -253,7 +253,7 @@
                         <li><a href="https://www.facebook.com/padalia.rushabh"  target="_blank" class="fa-facebook"></a></li>
                         <li><a href="https://plus.google.com/+RushabhPadalia/about"  target="_blank" class="fa-google-plus"></a></li>
                         <li><a href="https://twitter.com/padaliarushabh"  target="_blank" class="fa-twitter"></a></li> 
-                        <li><a href="https://github.com/PadaliaRushabh"  target="_blank" class="fa fa-git"></a></li>
+                        <li><a href="https://github.com/PadaliaRushabh"  target="_blank" class="fa-git"></a></li>
                     </ul>
                 </div>
                 <h3 class="wow">Rushabh RajeshKumar <br>Padalia</h3>

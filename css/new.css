@@ -183,6 +183,10 @@ body{min-height:100%;}
 	color:#dd4b39;
 }
 
+.team-leader ul li a.fa-git:hover{
+	color:#585858;
+}
+
 /* Clear Floated Elements
 ---------------------------------*/
 .clear {
