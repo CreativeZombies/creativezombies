@@ -323,10 +323,10 @@
                                 <abbr title="Phone">P:</abbr> (123) 456-7890
                             </address>
                             <ul class="social-link"> 
-                                <li> <a href="#"><i class="fa fa-facebook "> </i>  </a></li>
-                                <li> <a href="#"><i class="fa fa-google-plus"> </i>  </a></li>
-                                <li> <a href="#"><i class="fa fa-twitter "> </i>  </a></li>
-                                <li> <a href="https://github.com/CreativeZombies"><i class="fa fa-git "></i>  </a></li>
+                                <li> <a href="#" target="_blank"><i class="fa fa-facebook "> </i>  </a></li>
+                                <li> <a href="#" target="_blank"><i class="fa fa-google-plus"> </i>  </a></li>
+                                <li> <a href="#" target="_blank"><i class="fa fa-twitter "> </i>  </a></li>
+                                <li> <a href="https://github.com/CreativeZombies" target="_blank"><i class="fa fa-git "></i>  </a></li>
                            
                             </ul>                         
                         </div>
