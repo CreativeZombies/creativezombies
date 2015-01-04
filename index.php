@@ -216,10 +216,12 @@
                     <div class="team-leader-shadow"><a href="#"></a></div>
                     <img src="images/founder/kai.png" class="img-responsive" alt="">
                     <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
+                        
+                        <li><a href="https://www.facebook.com/kailash.nath.583"  target="_blank" class="fa-facebook"></a></li>
+                        <li><a href="https://plus.google.com/100356881205965896386/about"  target="_blank" class="fa-google-plus"></a></li>
+                        <li><a href="#"  target="_blank" class="fa-twitter"></a></li>
+                        <li><a href="#"  target="_blank" class="fa fa-git"></a></li>
+                        
                     </ul>
                 </div>
                 <h3 class="wow">Kailashnathan Thirupathur Venkata Ramana</h3>
@@ -231,10 +233,11 @@
                     <div class="team-leader-shadow"><a href="#"></a></div>
                      <img src="images/founder/pritam.png" class="img-responsive" alt="">
                     <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
+                        
+                        <li><a href="https://www.facebook.com/pritam.soni13"   target="_blank" class="fa-facebook"></a></li>
+                        <li><a href="https://plus.google.com/118220600743205979158/about"   target="_blank" class="fa-google-plus"></a></li>
+                        <li><a href="https://twitter.com/Soni13Pritam"  target="_blank" class="fa-twitter"></a></li>
+                        <li><a href="https://github.com/pritamsoni"   target="_blank" class="fa fa-git"></a></li>
                     </ul>
                 </div>
                 <h3 class="wow">Pritam Rajendra <br>Soni</h3>
@@ -246,10 +249,11 @@
                     <div class="team-leader-shadow"><a href="#"></a></div>
                      <img src="images/founder/rushabh.png" class="img-responsive" alt="">
                     <ul>
-                        <li><a href="#" class="fa-twitter"></a></li>
-                        <li><a href="#" class="fa-facebook"></a></li>
-                        <li><a href="#" class="fa-pinterest"></a></li>
-                        <li><a href="#" class="fa-google-plus"></a></li>
+                        
+                        <li><a href="https://www.facebook.com/padalia.rushabh"  target="_blank" class="fa-facebook"></a></li>
+                        <li><a href="https://plus.google.com/+RushabhPadalia/about"  target="_blank" class="fa-google-plus"></a></li>
+                        <li><a href="https://twitter.com/padaliarushabh"  target="_blank" class="fa-twitter"></a></li> 
+                        <li><a href="https://github.com/PadaliaRushabh"  target="_blank" class="fa fa-git"></a></li>
                     </ul>
                 </div>
                 <h3 class="wow">Rushabh RajeshKumar <br>Padalia</h3>
