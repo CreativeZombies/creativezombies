@@ -214,7 +214,7 @@
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
                     <div class="team-leader-shadow"><a href="#"></a></div>
-                    <img src="images/founder/kai.png" alt="">
+                    <img src="images/founder/kai.png" class="img-responsive" alt="">
                     <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
@@ -229,7 +229,7 @@
             <div class="team-leader-box">
                 <div class="team-leader  wow"> 
                     <div class="team-leader-shadow"><a href="#"></a></div>
-                     <img src="images/founder/kai.png" alt="">
+                     <img src="images/founder/kai.png" class="img-responsive" alt="">
                     <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>
@@ -244,7 +244,7 @@
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
                     <div class="team-leader-shadow"><a href="#"></a></div>
-                     <img src="images/founder/kai.png" alt="">
+                     <img src="images/founder/kai.png" class="img-responsive" alt="">
                     <ul>
                         <li><a href="#" class="fa-twitter"></a></li>
                         <li><a href="#" class="fa-facebook"></a></li>

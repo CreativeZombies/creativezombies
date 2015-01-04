@@ -4,7 +4,7 @@ $( window ).scroll(function() {
   //$( "span" ).css( "display", "inline" ).fadeOut( "slow" );
   console.log("scroll:" + $(document).scrollTop());
   
-    if($(document).scrollTop()> 530){
+    if($(document).scrollTop()> 750){ // will require some maths because it changes with the height of the screen
         $(".navbar-nav").css("margin-top","0");
         $(".navbar-nav>li").css("padding-bottom","10px");
         $(".navbar-inverse .navbar-brand ").css("line-height","30px");
