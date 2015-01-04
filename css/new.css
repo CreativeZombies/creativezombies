@@ -259,3 +259,6 @@ nav{
      
 }
 
+.navbar-collapse {
+ max-height: none; 
+
