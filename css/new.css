@@ -212,7 +212,7 @@ body{min-height:100%;}
 
 .social-link{
 
-    padding: 35px 0px;
+    padding: 5px 0px 35px 0;
     display: block;
     list-style: outside none none;
     list-style-type: none;
@@ -220,10 +220,16 @@ body{min-height:100%;}
     list-style-position: outside;
 }
 
+
+
 .social-link li{
     float: left;
     margin-right: 8px;
+
    
+}
+.address{
+    float:right;
 }
 
 .social-link li a{

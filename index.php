@@ -311,7 +311,7 @@
             <div class="row">
                 <div class="col-lg-6 col-sm-7">
                     <div class="row">
-                        <div class="col-lg-6 col-sm-7" style="float:right;">
+                        <div class="col-lg-6 col-sm-7 address">
                            <address>
                                 <strong>CreativeZombies</strong><br>
                                 795 Folsom Ave, Suite 600<br>
