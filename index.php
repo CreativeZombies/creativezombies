@@ -121,7 +121,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/ancee.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/ancee.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">ANCEE CHANTELLE</a> </h3>
@@ -134,7 +134,7 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/cabs.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/cabs.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">HAMILTON'S STAR CABS</a></h3>
@@ -147,7 +147,7 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/guna.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/guna.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">GUNAS CATERING</a></h3>
@@ -160,7 +160,7 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/royal.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/royal.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">Royal Taj</a></h3>
@@ -173,7 +173,7 @@
                 
                 <div class="col-xs-12 col-sm-4 col-md-3 col-md-offset-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/tedx.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/tedx.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
                                 <h3><a href="#">TEDxJCUS</a></h3>
@@ -272,24 +272,24 @@
             <div class="partners">
                      <div class="col-xs-12 col-sm-4 col-md-3 ">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/cabs.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/cabs.png" alt="">
                     </div>
                 </div> 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/guna.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/guna.png" alt="">
                     </div>
                 </div>   
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/royal.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/royal.png" alt="">
                     </div>
                 </div>   
                 
                         <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        <img class="img-responsive" src="images/portfolio/recent/tedx.png" alt="">
+                        <img class="img-responsive center-block" src="images/portfolio/recent/tedx.png" alt="">
                         
                     </div>
                 </div> 
