@@ -376,9 +376,26 @@ nav{
 }
 
 #recent-works .btn{
-    color:#B32727;
+    color:#B32767;
 }
 
 #recent-works .active{
     color:#000000;
+}
+
+#recent-works h2{
+    color:#B32767;
+}
+
+#recent-works .lead{
+    color:#89165C;
+}
+
+#partner h2{
+     color:#B32767;
+}
+
+
+#partner .lead{
+    color:#89165C;
 }
