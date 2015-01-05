@@ -6,14 +6,14 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="element">
-                        <h1 class="animation animated-item-1">If I had a cell phone, or any fingers, I would ask you for your number.</h1>
-                        <h2 class="animation animated-item-2">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
+                        <h1 class="animation animated-item-1 headerlead">If I had a cell phone, or any fingers, I would ask you for your number.</h1>
+                        <h2 class="animation animated-item-2 headerleadsmall">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
                        <!-- <div class="round-button">
                             <a href="#">
                                 <img src="images/button_arrow.png" alt="Home" />
                             </a>
                       </div> -->
-                      <button class="btn btn-lg btn-danger"> What We Do </buton>
+                      <button class="btn btn-lg btn-danger btn-lead"> What We Do </buton>
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Web Development</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Android Application</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Desktop Application</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>  
@@ -73,7 +73,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Digital Marketing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Graphic Designing</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                         </div>
                         <div class="media-body">
                             <h3 class="media-heading">Game Development</h3>
-                            <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
+                            <p class="media-description">Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
                 </div>                                                
@@ -124,8 +124,8 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/ancee.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">ANCEE CHANTELLE</a> </h3>
-                                <p>SINGAPORE BASED BOUTIQUE</p>
+                                <h3><a href="#" class="portfolio-name">ANCEE CHANTELLE</a> </h3>
+                                <p class="portfolio-description">SINGAPORE BASED BOUTIQUE</p>
                                 <a class="preview" href="http://www.an-cee.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -137,8 +137,8 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/cabs.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">HAMILTON'S STAR CABS</a></h3>
-                                <p>WELCOME TO STAR CAB, HAMILTON'S MOST TRUSTED AND RELIABLE TAXI SERVICES</p>
+                                <h3><a href="#" class="portfolio-name">HAMILTON'S STAR CABS</a></h3>
+                                <p class="portfolio-description">WELCOME TO STAR CAB, HAMILTON'S MOST TRUSTED AND RELIABLE TAXI SERVICES</p>
                                 <a class="preview" href="http://www.hamiltonstarcabs.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -150,8 +150,8 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/guna.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">GUNAS CATERING</a></h3>
-                                <p>CATERING HOMELY FOOD AND SERVING IT TIMELY</p>
+                                <h3><a href="#" class="portfolio-name">GUNAS CATERING</a></h3>
+                                <p class="portfolio-description"> CATERING HOMELY FOOD AND SERVING IT TIMELY</p>
                                 <a class="preview" href="http://www.gunascatering.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -163,8 +163,8 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/royal.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Royal Taj</a></h3>
-                                <p>WE PROVIDE OUR CATERING SERVICES SO THAT YOUR MOMENTS NEVER HAPPENS WITHOUT DELICIOUS FOOD</p>
+                                <h3 class="zombie-role"><a href="#" class="portfolio-name">Royal Taj</a></h3>
+                                <p class="portfolio-description">WE PROVIDE OUR CATERING SERVICES SO THAT YOUR MOMENTS NEVER HAPPENS WITHOUT DELICIOUS FOOD</p>
                                 <a class="preview" href="http://theroyaltaj.creativezombies.com/index.php" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -176,8 +176,8 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/tedx.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">TEDxJCUS</a></h3>
-                                <p>TEDxJCUS IS A CONFERENCE ORGANISED BY A DIVERSE GROUP OF PEOPLE FROM JAMES COOK UNIVERSITY SNGAPORE(JCUS)</p>
+                                <h3><a href="#" class="portfolio-name">TEDxJCUS</a></h3>
+                                <p class="portfolio-description">TEDxJCUS IS A CONFERENCE ORGANISED BY A DIVERSE GROUP OF PEOPLE FROM JAMES COOK UNIVERSITY SNGAPORE(JCUS)</p>
                                 <a class="preview" href="http://www.tedxjcus.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
                         </div>
@@ -186,7 +186,7 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#recent-works-->
-
+<!--
     <section id="services" class="service-item">
         <div class=container>
             <div class="row testimonial-align">
@@ -201,9 +201,9 @@
 	             </div> 
 	        </div>
         </div>
-    </section><!--/#services-->
-
-    <section id="middle" class="main-section">
+    </section>
+-->
+    <section id="team" class="main-section">
         <div class="container">
         
             <div class="center wow fadeInDown">
@@ -224,8 +224,8 @@
                         
                     </ul>
                 </div>
-                <h3 class="wow">Kailashnathan Thirupathur Venkata Ramana</h3>
-                <span class="wow">Founder</span>
+                <h3 class="wow zombie-name">Kailashnathan Thirupathur Venkata Ramana</h3>
+                <span class="wow zombie-role">Founder</span>
                 
             </div>
             <div class="team-leader-box">
@@ -240,8 +240,8 @@
                         <li><a href="https://github.com/pritamsoni"   target="_blank" class="fa-git"></a></li>
                     </ul>
                 </div>
-                <h3 class="wow">Pritam Rajendra <br>Soni</h3>
-                <span class="wow">Founder</span>
+                <h3 class="wow zombie-name">Pritam Rajendra <br>Soni</h3>
+                <span class="wow zombie-role">Founder</span>
                 
             </div>
             <div class="team-leader-box">
@@ -256,8 +256,8 @@
                         <li><a href="https://github.com/PadaliaRushabh"  target="_blank" class="fa-git"></a></li>
                     </ul>
                 </div>
-                <h3 class="wow">Rushabh RajeshKumar <br>Padalia</h3>
-                <span class="wow    ">Founder</span>
+                <h3 class="wow zombie-name">Rushabh RajeshKumar <br>Padalia</h3>
+                <span class="wow zombie-role">Founder</span>
 
             </div>
         </div>
@@ -362,6 +362,8 @@
                 </div>
             </div>
         </div><!--/.container-->
+        
+        
     </section><!--/#middle-->
   
 <?php endblock('content')?>

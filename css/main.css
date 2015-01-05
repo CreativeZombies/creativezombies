@@ -2,6 +2,7 @@
 
 
 
+
 /*************************
 *******Typography******
 **************************/
@@ -31,6 +32,7 @@ h1{
 
 h2{
   font-size: 20px;
+  color:#B32727;
 }
 
 h3{
@@ -133,6 +135,7 @@ body > section {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
+  color:#4e4e4e;
 }
 
 .transparent-bg {
@@ -284,7 +287,7 @@ input.search-form:hover {
   padding: 5px 12px;
   margin: 0;
   border-radius: 3px;
-  color: #fff;
+  color:#EC5B5B;
   line-height: 24px;
   display: inline-block;
 }
@@ -951,20 +954,13 @@ a.accordion-toggle  i{
   border-bottom: 0 none;
 }
 
-#partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
-  background-size: cover;
-}
+
 
 #partner {
   color: #fff;
   text-align: center;
 }
 
-#partner h2, 
-#partner h3 {
-  color: #fff;
-}
 
 .partners ul {
   list-style: none;

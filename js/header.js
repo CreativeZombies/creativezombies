@@ -9,11 +9,13 @@ $( window ).scroll(function() {
         $(".navbar-nav").css("margin-top","0");
         $(".navbar-nav>li").css("padding-bottom","10px");
         $(".navbar-inverse .navbar-brand ").css("line-height","30px");
+        $("nav").css("opacity","1");
     } else{
         
         $(".navbar-nav").css("margin-top","12px");
         $(".navbar-nav>li").css("padding-bottom", "28px");
         $(".navbar-inverse .navbar-brand ").css("line-height","50px");
+        $("nav").css("opacity","0.75");
 
     }
     

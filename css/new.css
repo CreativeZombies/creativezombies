@@ -1,8 +1,98 @@
+/*fonts*/
+
+@font-face {
+    font-family: ZombieHolocaust;
+    src: url(../fonts/Zombie_Holocaust.ttf);
+}
+
+@font-face {
+    font-family: ZombieCat;
+    src: url(../fonts/zombieCat.ttf);
+}
+
+@font-face {
+    font-family: BikoBlack;
+    src: url(../fonts/Biko_Black.otf);
+}
+
+@font-face {
+    font-family: BikoRegular;
+    src: url(../fonts/Biko_Regular.otf);
+}
+@font-face {
+    font-family: LittleDays;
+    src: url(../fonts/Littledays.ttf);
+}
+
+@font-face {
+    font-family: CreepsterRegular;
+    src: url(../fonts/Creepster-Regular.ttf);
+}
+
+h2{
+    font-family:BikoRegular;
+}
+
+.lead{
+    font-family:BikoRegular;
+    color:#891616;
+}
+
+.navbar-brand{
+    font-family:ZombieHolocaust;
+}
+.headerlead{
+    font-family:BikoRegular;
+}
+.headerleadsmall{
+    font-family:LittleDays;
+    font-size:30px;
+    color:#EC5B5B;
+}
+
+.nav li a{
+    font-family:ZombieCat;
+}
+
+.btn-lead{
+    font-family:ZombieCat;
+}
+
+.media-heading{
+    font-family:BikoBlack;
+    color:#9E5D5D;
+}
+.media-description{
+    font-family:BikoRegular;
+    color:#B32727;
+}
+.zombie-name{
+    font-family:BikoRegular;
+    color:#B32727;
+}
+.zombie-role{
+    font-family:BikoBlack;
+    color:#C44627;
+}
+
+.portfolio-description{
+    font-family:BikoRegular;
+}
+.portfolio-name{
+    font-family:BikoBlack;
+}
+#footer{
+     font-family: ZombieCat;
+     color:#EC5B5B;
+}
+
+
 html{ height:100%;}
 body{min-height:100%;}
 #main-slider{
-    min-height:90.7vh;
-    background-image:url("../images/slider/bg1.jpg");
+    min-height:100vh;
+    background-image:url("../images/header/4.jpg");
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -87,6 +177,9 @@ body{min-height:100%;}
 
 /* Team
 ---------------------------------*/
+#team{
+  background-color:#f2f2f2;
+}
 .team-leader-block{
 	max-width:993px;
 	margin:0 auto;
@@ -260,9 +353,31 @@ body{min-height:100%;}
 
 nav{
     opacity:0.75;
-     
 }
 
 .navbar-collapse {
  max-height: none; 
 
+}
+
+#middle{
+  background: url(../images/header/5.jpg) 50% 50% no-repeat;
+  background-size: cover;
+  color:#D3CACA;
+  background-attachment: fixed;
+}
+
+#middle h2{
+    color:#D3CACA;
+}
+#middle .lead{
+    color:#D3CACA;
+}
+
+#recent-works .btn{
+    color:#B32727;
+}
+
+#recent-works .active{
+    color:#000000;
+}
