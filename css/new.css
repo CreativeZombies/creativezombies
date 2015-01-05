@@ -179,7 +179,7 @@ body{min-height:100%;}
 /* Team
 ---------------------------------*/
 #team{
-  background-color:#f2f2f2;
+  background-color:#F7E7F1;
 }
 .team-leader-block{
 	max-width:993px;
@@ -384,7 +384,7 @@ nav{
 }
 
 #recent-works h2{
-    color:#B32767;
+    color:#B8363B;
 }
 
 #recent-works .lead{
@@ -392,7 +392,7 @@ nav{
 }
 
 #partner h2{
-     color:#B32767;
+     color:#B8363B;
 }
 
 
