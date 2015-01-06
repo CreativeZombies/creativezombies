@@ -69,10 +69,10 @@
     <footer id="footer" class="midnight-blue">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-5">
                     &copy; 2013 CreativeZombies. All Rights Reserved.
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-7">
                     <ul class="pull-right">
                         <li><a href="#main-slider">Home</a></li>
                         <li><a href="#feature">Services</a></li>

@@ -124,7 +124,7 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/ancee.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#" class="portfolio-name">ANCEE CHANTELLE</a> </h3>
+                                <h3 class="portfolio-name">ANCEE CHANTELLE</h3>
                                 <p class="portfolio-description">SINGAPORE BASED BOUTIQUE</p>
                                 <a class="preview" href="http://www.an-cee.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -137,7 +137,7 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/cabs.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#" class="portfolio-name">HAMILTON'S STAR CABS</a></h3>
+                                <h3 class="portfolio-name">HAMILTON'S STAR CABS</h3>
                                 <p class="portfolio-description">WELCOME TO STAR CAB, HAMILTON'S MOST TRUSTED AND RELIABLE TAXI SERVICES</p>
                                 <a class="preview" href="http://www.hamiltonstarcabs.com/" target="_blank" rel="ancee"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -150,7 +150,7 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/guna.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#" class="portfolio-name">GUNAS CATERING</a></h3>
+                                <h3 class="portfolio-name">GUNAS CATERING</h3>
                                 <p class="portfolio-description"> CATERING HOMELY FOOD AND SERVING IT TIMELY</p>
                                 <a class="preview" href="http://www.gunascatering.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -163,7 +163,7 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/royal.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3 class="zombie-role"><a href="#" class="portfolio-name">Royal Taj</a></h3>
+                                <h3 class="portfolio-name">Royal Taj</a></h3>
                                 <p class="portfolio-description">WE PROVIDE OUR CATERING SERVICES SO THAT YOUR MOMENTS NEVER HAPPENS WITHOUT DELICIOUS FOOD</p>
                                 <a class="preview" href="http://theroyaltaj.creativezombies.com/index.php" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -176,7 +176,7 @@
                         <img class="img-responsive center-block" src="images/portfolio/recent/tedx.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#" class="portfolio-name">TEDxJCUS</a></h3>
+                                <h3 class="portfolio-name">TEDxJCUS</a></h3>
                                 <p class="portfolio-description">TEDxJCUS IS A CONFERENCE ORGANISED BY A DIVERSE GROUP OF PEOPLE FROM JAMES COOK UNIVERSITY SNGAPORE(JCUS)</p>
                                 <a class="preview" href="http://www.tedxjcus.com/index.html" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                             </div> 
@@ -213,7 +213,7 @@
 <div class="team-leader-block clearfix">
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <div class="team-leader-shadow"></div>
                     <img src="images/founder/kai.png" class="img-responsive" alt="">
                     <ul>
                         
@@ -230,7 +230,7 @@
             </div>
             <div class="team-leader-box">
                 <div class="team-leader  wow"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <div class="team-leader-shadow"></div>
                      <img src="images/founder/pritam.png" class="img-responsive" alt="">
                     <ul>
                         
@@ -246,7 +246,7 @@
             </div>
             <div class="team-leader-box">
                 <div class="team-leader wow"> 
-                    <div class="team-leader-shadow"><a href="#"></a></div>
+                    <div class="team-leader-shadow"></div>
                      <img src="images/founder/rushabh.png" class="img-responsive" alt="">
                     <ul>
                         
@@ -292,7 +292,7 @@
                 </div>   
                 
                         <div class="col-xs-12 col-sm-4 col-md-3">
-                    <div class="recent-work-wrap">
+                    <div class="recent-work-wrap margin30">
                         <img class="img-responsive center-block" src="images/portfolio/recent/tedx.png" alt="">
                         
                     </div>
@@ -338,24 +338,24 @@
                     <form class="form-horizontal" role="form">
                         <div class="form-group">
                             <div class="col-sm-10">
-                                <input type="password" class="form-control" id="inputName" placeholder="Name">
+                                <input type="text" class="form-control form-footer" id="inputName" placeholder="Name">
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-10">
-                                <input type="email" class="form-control" id="inputEmail" placeholder="Email">
-                            </div>
-                        </div>
-                        
-                        <div class="form-group">
-                            <div class="col-sm-10">
-                                <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+                                <input type="email" class="form-control form-footer" id="inputEmail" placeholder="Email">
                             </div>
                         </div>
                         
                         <div class="form-group">
                             <div class="col-sm-10">
-                                <button type="submit" class="btn btn-default">Send Message</button>
+                                <textarea class="form-control form-footer" rows="3" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <div class="col-sm-10">
+                                <button type="submit" class="btn btn-default btn-message">Send Message</button>
                             </div>
                         </div>
                     </form>

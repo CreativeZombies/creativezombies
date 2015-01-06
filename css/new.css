@@ -35,7 +35,7 @@ h2{
 
 .lead{
     font-family:BikoRegular;
-    color:#891616;
+    color:#C24B4B;
 }
 
 .navbar-brand{
@@ -48,7 +48,7 @@ h2{
 .headerleadsmall{
     font-family:LittleDays;
     font-size:30px;
-    color:#EC5B5B;
+    color:#B388A5;
 }
 
 .nav li a{
@@ -81,6 +81,7 @@ h2{
 }
 .portfolio-name{
     font-family:BikoBlack;
+    color:#FFF;
 }
 #footer{
      font-family: ZombieCat;
@@ -376,7 +377,7 @@ nav{
 }
 
 #recent-works .btn{
-    color:#B32767;
+    color:#810F5E;
 }
 
 #recent-works .active{
@@ -388,8 +389,10 @@ nav{
 }
 
 #recent-works .lead{
-    color:#89165C;
+    color:#744C64;
 }
+
+
 
 #partner h2{
      color:#B8363B;
@@ -397,5 +400,27 @@ nav{
 
 
 #partner .lead{
-    color:#89165C;
+    color:#744C64;
 }
+
+/*footer*/
+
+.btn-message{
+    font-family:ZombieCat;
+    color:#FFF;
+    background-color:#D9534F;
+    border-color:#D9534F;
+}
+
+.form-footer{
+    
+font-family: ZombieCat;
+font-size: 17px;
+color: #B8363B;
+background-color: #F2E1F2;
+background-image: none;
+border: 1px solid #F2E1F2;
+
+}
+
+
