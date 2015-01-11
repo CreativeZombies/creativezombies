@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="element">
-                        <h1 class="animation animated-item-1 headerlead">If I had a cell phone, or any fingers, I would ask you for your number.</h1>
+                        <h1 class="animation animated-item-1 headerlead">CreativeZombies deliver super cool software solutions</h1>
                         <h2 class="animation animated-item-2 headerleadsmall">Accusantium doloremque laudantium totam rem aperiam, eaque ipsa...</h2>
                        <!-- <div class="round-button">
                             <a href="#">

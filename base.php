@@ -52,8 +52,8 @@
                         <li class="active"><a href="#main-slider">Home</a></li>
                         <li><a href="#feature">Services</a></li>
                         <li><a href="#recent-works">Portfolio</a></li>
-                        <li><a href="#team">About Us</a></li>
-						<li><a href="#partner">Our Clients</a></li>	
+                        <li><a href="#team">Team</a></li>
+						<li><a href="#partner">Clients</a></li>	
                         <li><a href="#middle">Contact</a></li>                        
                     </ul>
                 </div>
@@ -77,8 +77,8 @@
                         <li><a href="#main-slider">Home</a></li>
                         <li><a href="#feature">Services</a></li>
                         <li><a href="#recent-works">Portfolio</a></li>
-                        <li><a href="#team">About Us</a></li>
-						<li><a href="#partner">Our Clients</a></li>	
+                        <li><a href="#team">Team</a></li>
+						<li><a href="#partner">Clients</a></li>	
                         <li><a href="#middle">Contact</a></li>      
                     </ul>
                 </div>
@@ -92,6 +92,7 @@
     <script src="js/jquery.isotope.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/header.js"></script>
+    <script src="js/smoothScroll.js"></script>
 <!--    <script src="js/wow.min.js"></script> -->
 </body>
 </html>
